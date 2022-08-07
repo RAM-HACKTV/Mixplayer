@@ -93,12 +93,7 @@ let mySongs = [{
             
  } ,
     {
-        identificación : 11 ,
-        idGenero : 2 ,
-        nombre : "chiquitere" ,
-        artista : "dj.mon" ,
-        ruta : "img/music/bachata/chiquitere.mp3" ,
-        imagen : "img/music/bachata/chiquitere.jpg"
+        
             
             
             
