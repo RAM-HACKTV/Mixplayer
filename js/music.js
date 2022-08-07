@@ -93,12 +93,12 @@ let mySongs = [{
             
  } ,
     {
-        identificación : 10 ,
-        idGenero : 1 ,
-        nombre : "Persiana americana" ,
-        artista : "Soda Stereo" ,
-        ruta : "music/ska_rock/Persiana Americana Letra.mp3" ,
-        imagen : "img/music/ska_rock/persiana.jpg"
+        identificación : 11 ,
+        idGenero : 2 ,
+        nombre : "chiquitere" ,
+        artista : "dj.mon" ,
+        ruta : "img/music/bachata/chiquitere.mp3" ,
+        imagen : "img/music/bachata/chiquitere.jpg"
             
             
             
