@@ -90,6 +90,20 @@ let mySongs = [{
         artist: "Soda Stereo",
         path: "music/ska_rock/Persiana Americana Letra.mp3",
         image: "img/music/ska_rock/persiana.jpg"
+            
+ } ,
+    {
+        identificación : 10 ,
+        idGenero : 1 ,
+        nombre : "Persiana americana" ,
+        artista : "Soda Stereo" ,
+        ruta : "music/ska_rock/Persiana Americana Letra.mp3" ,
+        imagen : "img/music/ska_rock/persiana.jpg"
+            
+            
+            
+            
+            
     }
 
 ]
